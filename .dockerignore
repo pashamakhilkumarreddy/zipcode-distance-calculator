@@ -1,0 +1,8 @@
+/node_modules/
+*.md
+.eslint*
+.gitignore
+.nvmrc
+.npmrc
+LICENSE
+.env*
